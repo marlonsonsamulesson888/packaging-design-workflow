@@ -12,6 +12,7 @@
 - 入口： [SKILL.md](SKILL.md)
 - 阶段和版本记录： [references/project-record.md](references/project-record.md)
 - 印刷交付检查： [references/print-gates.md](references/print-gates.md)
+- 防返工检查与公开技能索引： [references/avoid-rework.md](references/avoid-rework.md)
 
 只做局部改稿时从当前阶段开始，不重复已经确认的工作。没有图像或编辑工具时，技能会区分能够提供的方案和无法生成的成品。
 
